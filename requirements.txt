@@ -1,0 +1,13 @@
+huggingface_hub==0.25.2
+
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-huggingface
+langchain-chroma
+
+sentence-transformers
+chromadb
+pypdf
+torch
