@@ -1,6 +1,8 @@
 # 📄 AI-Powered PDF Question Answering System
 
 A professional Retrieval-Augmented Generation (RAG) application that enables users to upload PDF documents and interact with them through natural language queries. The system leverages advanced Large Language Models (LLMs), semantic search, and vector embeddings to generate accurate, context-aware responses from uploaded documents.
+<img width="1413" height="331" alt="image" src="https://github.com/user-attachments/assets/a892217f-6400-49de-aed7-73e557e0c528" />
+
 
 ---
 
