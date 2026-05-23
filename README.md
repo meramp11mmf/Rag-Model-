@@ -4,9 +4,10 @@ A professional Retrieval-Augmented Generation (RAG) application that enables use
 <img width="1413" height="331" alt="image" src="https://github.com/user-attachments/assets/a892217f-6400-49de-aed7-73e557e0c528" />
 
 
+
 ---
 
-# 🚀 Overview
+#  Overview
 
 This project combines the power of:
 
@@ -18,22 +19,24 @@ This project combines the power of:
 
 The application processes PDF documents, converts them into vector embeddings, retrieves the most relevant content based on user queries, and generates intelligent answers grounded in the uploaded document.
 
+<img width="1907" height="769" alt="image" src="https://github.com/user-attachments/assets/e17db78b-1f3c-41cb-be65-dbc16ca2dfb0" />
+
 ---
 
 # ✨ Key Features
 
-- 📂 Upload and process PDF documents
-- 🤖 AI-powered conversational interface
-- 🔍 Semantic document retrieval using vector search
-- ⚡ High-speed inference with Groq LLMs
-- 🧠 Context-aware question answering
-- 🌐 Deployable on Hugging Face Spaces
-- 🎯 Retrieval-Augmented Generation (RAG) architecture
-- 🖥️ User-friendly Gradio interface
+-  Upload and process PDF documents
+-  AI-powered conversational interface
+-  Semantic document retrieval using vector search
+-  High-speed inference with Groq LLMs
+-  Context-aware question answering
+-  Deployable on Hugging Face Spaces
+-  Retrieval-Augmented Generation (RAG) architecture
+-  User-friendly Gradio interface
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 ```text
 PDF Document
@@ -77,7 +80,6 @@ Generated Response
 ---
 
 # 📂 Project Structure
-
 ```bash
 ├── app.py
 ├── requirements.txt
@@ -162,17 +164,10 @@ Add the following secret:
 
 ---
 
-# 📸 Application Preview
+#  Application Preview
 
 Users can upload PDF documents and ask context-aware questions directly through the web interface.
 
----
-
-# 🔒 Security Best Practices
-
-- API keys are securely managed using environment variables
-- Sensitive credentials are never hardcoded into the application
-- Hugging Face Repository Secrets are recommended for deployment
 
 ---
 
@@ -192,4 +187,4 @@ Users can upload PDF documents and ask context-aware questions directly through 
 **Maram Moustafa**
 
 
-# 📜 License
+
